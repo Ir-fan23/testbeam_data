@@ -1,0 +1,9 @@
+*.geo~
+*.conf~
+*.txt~
+data/*data_atlaspix*
+data/*data_telescope*
+*tar.gz
+output/
+*.sh~
+macros/PDFs/*.pdf
