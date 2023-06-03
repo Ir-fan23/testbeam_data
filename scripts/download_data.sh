@@ -8,3 +8,4 @@ wget https://cern.ch/corryvreckan/data/fp_data.tar.gz
 
 # Extract:
 tar -xvf fp_data.tar.gz
+
