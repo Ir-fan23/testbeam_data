@@ -12,17 +12,13 @@ The data whixh is analyzed in this project has been taken for ATLASpix prototype
 The following data set is used:
 
 **ATLASpix at SPS:**
-
 - Run 29663 taken in November 2018 by CLICdp (Contact: Dominik Dannheim at CERN)
 - total length 480sec
 - telescope read out with SPIDR
 - DUT read out with Caribou
 - Information about the DUT:
-
-	ATLASpix_Simple: w23s11, 200 Ohm cm, 100 um
+ 	ATLASpix_Simple: w23s11, 200 Ohm cm, 100 um
 	bias = -75V
 	threshold = 950 mV -> slightly inefficient
 	clock_cycle = 8ns
 	ckdivend2 = 15
-
-
