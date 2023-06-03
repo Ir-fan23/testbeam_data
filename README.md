@@ -10,7 +10,8 @@ For the HL-LHC upgrade of ATLAS detector, high rate detectors are needed. Curren
 The data whixh is analyzed in this project has been taken for ATLASpix prototype sensor for the HL-LHC upgrade of ATLAS detector with Timepix3 telescope layers using The Super Proton Synchroton beam at CERN.
 
 The following data set is used:
- **ATLASpix at SPS:**
+
+**ATLASpix at SPS:**
 
 - Run 29663 taken in November 2018 by CLICdp (Contact: Dominik Dannheim at CERN)
 - total length 480sec
