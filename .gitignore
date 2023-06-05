@@ -6,4 +6,15 @@ data/*data_telescope*
 *tar.gz
 output/
 *.sh~
-macros/PDFs/*.pdf
+figures/*.pdf
+*.aux
+*.bcf
+*.log
+*.out
+*.run.xml
+*.gz
+*.thm
+*.toc
+*.bbl
+*.blg
+document.pdf
