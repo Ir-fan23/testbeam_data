@@ -2,7 +2,7 @@ void macro_11_timeResiduals() {
 
     // Define the name of the input file:
     // * "../output" means go into parent directory and then into 'output'
-    string fileName1 = "../output/10_dut_analysis_withEfficiency_fullRun.root";
+    string fileName1 = "../output/10_dut_analysis.root";
 
     // Open the file
     TFile *f1 = TFile::Open(fileName1.c_str());
